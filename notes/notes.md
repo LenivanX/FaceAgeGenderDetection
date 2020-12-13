@@ -1,7 +1,3 @@
-# Face Age Gender Detection
-
-A program to detect faces in an image and identifying the person as a "Male" or "Female" and also give an approximate estimate of their age.
-
 ## Additional Files
 
 The following two more files are necessary for this program to work:
@@ -15,6 +11,7 @@ Due to their huge sizes, instead of providing them here, I am providing the link
 The necessary file are marked in the following picture:
 ![Required .caffemodel files](caffemodels.jpg)
 
+Once download, place those two files in the 'models' folder.
 
 ## References for the pre-trained models
 
