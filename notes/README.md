@@ -1,4 +1,4 @@
-##Face Age Gender Detection
+# Face Age Gender Detection
 
 A program to detect faces in an image and identifying the person as a "Male" or "Female" and also give an approximate estimate of their age.
 
@@ -18,23 +18,6 @@ The necessary file are marked in the following picture:
 
 **Citations**
 
-@article{Rothe-IJCV-2018,
-  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
-  title = {Deep expectation of real and apparent age from a single image without facial landmarks},
-  journal = {International Journal of Computer Vision},
-  volume={126},
-  number={2-4},
-  pages={144--157},
-  year={2018},
-  publisher={Springer}
-}
+[@Rothe-IJCV-2018]
 
-@InProceedings{Rothe-ICCVW-2015,
-  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
-  title = {DEX: Deep EXpectation of apparent age from a single image},
-  booktitle = {IEEE International Conference on Computer Vision Workshops (ICCVW)},
-  year = {2015},
-  month = {December},
-}
-
-[@author, Rothe-IJCV-2018]
+[Rothe-ICCVW-2015]
