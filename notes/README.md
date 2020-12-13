@@ -2,11 +2,11 @@
 
 A program to detect faces in an image and identifying the person as a "Male" or "Female" and also give an approximate estimate of their age.
 
-**Additional Files**
+## Additional Files
 
 The following two more files are necessary for this program to work:
-- 'dex_chalearn_iccv2015.caffemodel' (513 MB)</li>
-- 'gender.caffemodel' (513 MB)</li>
+- `dex_chalearn_iccv2015.caffemodel` (513 MB)</li>
+- `gender.caffemodel` (513 MB)</li>
 
 Due to their huge sizes, instead of providing them here, I am providing the link to the website to download them from:
 
@@ -16,7 +16,7 @@ The necessary file are marked in the following picture:
 ![Required .caffemodel files](caffemodels.jpg)
 
 
-**Citations**
+## Citations
 
 [@Rothe-IJCV-2018]
 
