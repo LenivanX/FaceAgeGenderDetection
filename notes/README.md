@@ -36,3 +36,5 @@ The necessary file are marked in the following picture:
   year = {2015},
   month = {December},
 }
+
+[@author, Rothe-IJCV-2018]
