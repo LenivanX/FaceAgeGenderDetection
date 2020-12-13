@@ -2,19 +2,6 @@ import cv2
 import numpy as np
 from tkinter import filedialog
 
-'''
-Citations for the use of pre-trained models
-    article = Rothe-IJCV-2018
-    author = Rasmus Rothe, Radu Timofte, Luc Van Gool
-    title = Deep expectation of real and apparent age from a single image without facial landmarks
-    journal = International Journal of Computer Vision
-    volume = 126
-    number = 2-4
-    pages = 144--157
-    year = 2018
-    publisher = Springer
-'''
-
 # load age and gender model
 age_model = cv2.dnn.readNetFromCaffe('models/age.prototxt', 'models/dex_chalearn_iccv2015.caffemodel')
 gender_model = cv2.dnn.readNetFromCaffe('models/gender.prototxt', 'models/gender.caffemodel')
